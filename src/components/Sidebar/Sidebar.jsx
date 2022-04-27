@@ -4,9 +4,9 @@ import { Logo } from "../../imgs";
 import { SidebarData } from "../../Data";
 import { UilSignOutAlt } from "@iconscout/react-unicons";
 
-import "./Sidebar.css";
+import "./SideBar.css";
 
-const Sidebar = () => {
+const SideBar = () => {
   const [selected, setSelected] = useState(0);
 
   return (
@@ -38,4 +38,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default SideBar;
