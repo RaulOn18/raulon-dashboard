@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 import { motion, AnimateSharedLayout } from "framer-motion";
 import { CircularProgressbar } from "react-circular-progressbar";
 import { UilTimes } from "@iconscout/react-unicons";
