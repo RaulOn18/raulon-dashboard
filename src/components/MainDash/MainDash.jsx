@@ -1,5 +1,5 @@
 import React from "react";
-import Cards from "../Cards/Cards";
+import { Cards, Table } from "../";
 
 import "./MainDash.css";
 
@@ -8,6 +8,7 @@ const MainDash = () => {
     <div className="MainDash">
       <h1>DashBoard</h1>
       <Cards />
+      <Table />
     </div>
   );
 };
