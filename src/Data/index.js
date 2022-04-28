@@ -103,6 +103,6 @@ export const UpdatesData = [
     img: img3,
     name: "Salwa Azizah Muhammad",
     noti: "has ordered Jengkol & Pete and Karedok",
-    time: "25 seconds ago",
+    time: "60 seconds ago",
   },
 ];
