@@ -8,6 +8,7 @@ import {
   UilMoneyWithdrawal,
   UilUsdSquare,
 } from "@iconscout/react-unicons";
+import { img1, img2, img3 } from "../imgs";
 
 // Sidebar Data
 export const SidebarData = [
@@ -82,5 +83,26 @@ export const CardsData = [
         data: [10, 25, 15, 30, 12, 15, 20],
       },
     ],
+  },
+];
+
+export const UpdatesData = [
+  {
+    img: img1,
+    name: "Udin bapanya Syamsul",
+    noti: "has ordered Ketoprak 10 packet",
+    time: "25 seconds ago",
+  },
+  {
+    img: img2,
+    name: "Radja Fajrul Ghufron",
+    noti: "has received Nasi Uduk 100 packet",
+    time: "40 seconds ago",
+  },
+  {
+    img: img3,
+    name: "Salwa Azizah Muhammad",
+    noti: "has ordered Jengkol & Pete and Karedok",
+    time: "25 seconds ago",
   },
 ];
