@@ -1,4 +1,5 @@
 import React from "react";
+import { CardsData } from "../../Data";
 import Card from "../Card/Card";
 
 import "./Cards.css";
