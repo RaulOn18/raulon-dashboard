@@ -1,5 +1,6 @@
 import React from "react";
-import { Cards, Table } from "../";
+import Cards from "../Cards/Cards"
+import Table from "../Table/Table"
 
 import "./MainDash.css";
 

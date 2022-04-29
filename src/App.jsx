@@ -1,5 +1,7 @@
 import "./App.css";
-import { MainDash, RightSide, SideBar } from "./components";
+import MainDash from "./components/MainDash/MainDash";
+import RightSide from "./components/RightSide/RightSide";
+import SideBar from "./components/SideBar/SideBar";
 
 function App() {
   return (
