@@ -3,7 +3,7 @@ import { Logo } from "../../imgs";
 import { motion } from "framer-motion";
 
 import { SidebarData } from "../../Data";
-import { UilSignOutAlt, UilBars } from "@iconscout/react-unicons";
+import { UilBars, UilSignOutAlt } from "@iconscout/react-unicons";
 
 import "./SideBar.css";
 
