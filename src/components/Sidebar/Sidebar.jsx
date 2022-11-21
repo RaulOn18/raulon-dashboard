@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { SidebarData } from "../../Data";
 import { UilBars, UilSignOutAlt } from "@iconscout/react-unicons";
 
-import "./SideBar.css";
+import "./Sidebar.css";
 
 // Rename this function
 const Sidebar = () => {
