@@ -8,7 +8,7 @@ import { UilBars, UilSignOutAlt } from "@iconscout/react-unicons";
 import "./SideBar.css";
 
 // Rename this function
-const SideBar = () => {
+const Sidebar = () => {
   const [selected, setSelected] = useState(0);
   const [expanded, setExpanded] = useState(true);
 
@@ -63,4 +63,4 @@ const SideBar = () => {
   );
 };
 
-export default SideBar;
+export default Sidebar;
